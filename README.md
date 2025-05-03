@@ -52,5 +52,8 @@
     <li>360° rotational control</li>
   </ul>
 
+  <h3>5. <strong>FPV_Camera</strong></h3>
+  <p>This section focuses on integrating a First-Person View (FPV) camera with the rover for real-time object detection and mapping. The folder includes code for interfacing a Python-based OpenCV camera setup with an Arduino Uno. It also demonstrates object recognition capabilities such as detecting shapes (e.g., cubes) and identifying object colors.</p>
+
 </body>
 </html>
